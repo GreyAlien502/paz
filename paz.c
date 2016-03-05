@@ -75,30 +75,30 @@ signed char stats[2] = {16, 16};
 int setLang(char lang[4]) {
 
 if (!strcmp(lang,"nge")) { 
-	animals = "ojcespopiupungubisunoriescoprosoigo";
+	animals = "ALCESPAPIOPONGOBISONADIESCAPRASAIGA";
 	animalnum = 7;
 	animalength = 5;
 	char baseanimal[] = "12345";
 	strcpy(animal, baseanimal);
 
-	run_mess1 = "ñoñ muv vœb ";
+	run_mess1 = "8o8 myv vub ";
  	run_mess2 = "\n";
 	kills_you_mess1 = "";
-	kills_you_mess2 = " ŝu ot ñoñ\n";
-	you_kill_mess1 = "ñoñ ŝu ñoc ŝup oh ot ";
+	kills_you_mess2 = " 6y ot 8o8\n";
+	you_kill_mess1 = "8o8 6y 8oc 6yp oh ot ";
 	you_kill_mess2 = "\n";
-	you_meet_mess1 = "ñoñ jeb ot ";
-	you_meet_mess2 = " docdœcot nu o ot cijugrom docdœcot jid ";
+	you_meet_mess1 = "8o8 reb ot ";
+	you_meet_mess2 = " docducot ny o ot CILOGLAM docducot rid ";
 	you_meet_mess3 = "\n";
-	help_mess = "ñoñ nuz ẑoẑ ot (a) oh ẑac ot ñoñ saŷ ẑoẑ   ñoñ nuz ẑoẑ ot (r) oh ẑac ot ñoñ muv ẑoẑ\n";
-	fat_mess1 = "ñoñ doc ot yoyẑacyoyzemẑoẑ o ot cijugram docdœcot jid ";
+	help_mess = "8o8 nyz 3o3 ot (a) oh 3ac ot 8o8 sax 3o3   8o8 nyz 3o3 ot (r) oh 3ac ot 8o8 myv 3o3\n";
+	fat_mess1 = "8o8 doc ot joj3acjojzem3o3 o ot CILOGLAM docducot rid ";
 	fat_mess2 = "\n";
-	muscle_mess1 = "ñoñ doc ot mub o ot cijugrom docdœcot jid ";
+	muscle_mess1 = "8o8 doc ot myb o ot ciluglom docducot rid ";
 	muscle_mess2 = "\n";
-	obese_mess = "ñoñ ŝum noŷ ẑoẑ ẑac ot ñoñ ŝup ẑoẑ.\n";
-	starve_mess = "ñoñ ŝum doy ŷo ẑoẑ ẑac ot ñoñ ŝup ẑoẑ\n";
-	death_mess = "yoy ŝu ñoc ŝum oh ot ñoñ\n";
-	life_mess1 = "ñoñ yab œŵ jœw docdœcot jid ";
+	obese_mess = "8o8 6ym nox 3o3 3ac ot 8o8 6yp 3o3.\n";
+	starve_mess = "8o8 6ym doj xo 3o3 3ac ot 8o8 6yp 3o3\n";
+	death_mess = "joj 6y 8oc 6ym oh ot 8o8\n";
+	life_mess1 = "8o8 jab y0 ruw docducot rid ";
 	life_mess2 = "\n";
 	return 0;
 } else if (!strcmp(lang,"eng")) {
