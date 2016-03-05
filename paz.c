@@ -88,17 +88,17 @@ if (!strcmp(lang,"nge")) {
 	you_kill_mess1 = "8o8 6y 8oc 6yp oh ot ";
 	you_kill_mess2 = "\n";
 	you_meet_mess1 = "8o8 reb ot ";
-	you_meet_mess2 = " docducot ny o ot CILOGLAM docducot rid ";
+	you_meet_mess2 = " doc ot ny o ot CILOGLAM doc-duc-ot rid ";
 	you_meet_mess3 = "\n";
 	help_mess = "8o8 nyz 3o3 ot (a) oh 3ac ot 8o8 sax 3o3   8o8 nyz 3o3 ot (r) oh 3ac ot 8o8 myv 3o3\n";
-	fat_mess1 = "8o8 doc ot joj3acjojzem3o3 o ot CILOGLAM docducot rid ";
+	fat_mess1 = "8o8 doc ot joj-3ac-joj-zem-3o3 o ot CILOGLAM doc-duc-ot rid ";
 	fat_mess2 = "\n";
-	muscle_mess1 = "8o8 doc ot myb o ot ciluglom docducot rid ";
+	muscle_mess1 = "8o8 doc ot myb o ot CILOGLAM doc-duc-ot rid ";
 	muscle_mess2 = "\n";
 	obese_mess = "8o8 6ym nox 3o3 3ac ot 8o8 6yp 3o3.\n";
 	starve_mess = "8o8 6ym doj xo 3o3 3ac ot 8o8 6yp 3o3\n";
 	death_mess = "joj 6y 8oc 6ym oh ot 8o8\n";
-	life_mess1 = "8o8 jab y0 ruw docducot rid ";
+	life_mess1 = "8o8 jab y0 ruw doc-duc-ot rid ";
 	life_mess2 = "\n";
 	return 0;
 } else if (!strcmp(lang,"eng")) {
